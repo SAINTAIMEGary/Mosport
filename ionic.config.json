@@ -1,0 +1,7 @@
+{
+  "name": "MoSport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
